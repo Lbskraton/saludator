@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+div,section{
+    text-align: center;
+}
+
+
+
+button {
+    background-color: #007b90;
+    color: white;
+    border: none;
+    padding: 9px 7px;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+
+button:hover {
+    color: aquamarine;         
+}
+
